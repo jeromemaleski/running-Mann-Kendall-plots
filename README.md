@@ -14,4 +14,4 @@ Run scripts in this order:
 3 plot (plot_annual_RMK)  
 
 Example Figure Mean Tempearture trends (grey outlines indicate field signifcant trends)  
-![alt text](running-Mann-Kendall-plots/ALBANY_3_SE_Mean_Temp.png "Albany Mean Temperature Trends")
+![alt text](ALBANY_3_SE_Mean_Temp.png "Albany Mean Temperature Trends")
