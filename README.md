@@ -10,6 +10,9 @@ https://doi.org/10.1002/joc.4723
 For examples see figures included in this repository.
 Example data is included here in an excel file.
 Run scripts in this order:
-1 calculate running mann kendall (RMK_annual)
-2 calculate field significance (RMK_FS_annual)
-3 plot (plot_annual_RMK)
+1 calculate running mann kendall (RMK_annual).
+2 calculate field significance (RMK_FS_annual).
+3 plot (plot_annual_RMK).
+
+Example Figure Mean Tempearture trends (grey outlines indicate field signifcant trends).
+![alt text](https://github.com/jeromemaleski/running-Mann-Kendall-plots/ALBANY 3 SE-Mean Temp.png)
